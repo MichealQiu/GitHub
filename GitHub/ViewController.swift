@@ -19,6 +19,7 @@ class ViewController: UIViewController {
 
 
         print("a2")
+        print("a3")
     }
 
     override func didReceiveMemoryWarning() {
